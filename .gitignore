@@ -1,0 +1,5 @@
+/.bsp/
+target/
+
+# Ignore the build directory
+build/
